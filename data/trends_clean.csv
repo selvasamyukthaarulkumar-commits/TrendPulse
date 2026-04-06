@@ -1,0 +1,474 @@
+post_id,title,category,score,author
+47657699,SideX – A Tauri-based port of Visual Studio Code,others,46,0x1997
+47655408,Show HN: I built a tiny LLM to demystify how language models work,others,355,armanified
+47652561,Gemma 4 on iPhone,others,584,janandonly
+47656622,An open-source 240-antenna array to bounce signals off the Moon,others,76,hillcrestenigma
+47651703,Microsoft hasn't had a coherent GUI strategy since Petzold,others,380,naves
+47655392,Show HN: I made a YouTube search form with advanced filters,others,204,nevernothing
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,67,keepamovin
+47652007,"Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",technology,53,karimf
+47637377,LÖVE: 2D Game Framework for Lua,sports,282,cl3misch
+47637116,"Signals, the push-pull based algorithm",others,26,mpweiher
+47655367,"Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",technology,61,ikessler
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,others,49,salt4034
+47652400,Why Switzerland has 25 Gbit internet and America doesn't,others,420,sschueller
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,43,zdw
+47651540,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,others,254,vbtechguy
+47636456,Sheets Spreadsheets in Your Terminal,others,50,_____k
+47656114,We replaced Node.js with Bun for 5x throughput,others,49,pier25
+47655268,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",others,41,mohshomis
+47655466,Employers use your personal data to figure out the lowest salary you'll accept,others,179,thisislife2
+47656659,Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice,others,120,MoltenMonster
+47652322,Music for Programming,others,168,merusame
+47655905,Usenet Archives,others,29,myth_drannon
+47613827,One ant for $220: The new frontier of wildlife trafficking,others,12,gmays
+47650312,A tail-call interpreter in (nightly) Rust,technology,154,g0xA52A2A
+47648828,"Eight years of wanting, three months of building with AI",technology,757,brilee
+47650502,Computational Physics (2nd Edition) (2025),others,135,teleforce
+47654620,"In Japan, the robot isn't coming for your job; it's filling the one nobody wants",others,160,rbanffy
+47649721,Artemis II crew see first glimpse of far side of Moon [video],others,471,mooreds
+47647455,Caveman: Why use many token when few token do trick,others,755,tosh
+47654171,The Mechanics of Steins Gate (2023) [pdf],others,74,Ariarule
+47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,others,183,desideratum
+47656335,Does coding with LLMs mean more microservices?,others,12,jer0me
+47655978,Stamp It: All programs must report their version,others,11,gurjeet
+47648048,Friendica – A Decentralized Social Network,others,144,janandonly
+47652442,OpenJDK: Panama,others,51,tosh
+47649113,Finnish sauna heat exposure induces stronger immune cell than cytokine responses,others,355,Growtika
+47657652,China fell for a lobster: What an AI assistant tells us about Beijing's ambition,technology,8,tmoravec
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,861,zaikunzhang
+47612331,Baby's Second Garbage Collector,others,60,matheusmoreira
+47657198,Scientists found a protein that drives brain aging – and how to stop it,technology,11,mikhael
+47655058,OpenAI's fall from grace as investors race to Anthropic,technology,147,1vuio0pswjnm7
+47638043,Rendering arbitrary-scale emojis using the Slug algorithm,others,13,leduyquang753
+47652549,Iran's IRGC Publishes Satellite Imagery of OpenAI's $30B Stargate Datacenter,technology,37,alvivanco
+47655721,LLMs can't justify their answers–this CLI forces them to,others,9,volatilityfund
+47637077,Scientists mapped all the nerves of the clitoris for the first time,others,33,01-_-
+47653589,Women were never meant to give birth on their backs,others,36,ilt
+47613272,Tracing Goroutines in Realtime with eBPF,others,74,darccio
+47607408,Scientists Figured Out How Eels Reproduce (2022),others,116,thunderbong
+47652324,LibreOffice – Let's put an end to the speculation,others,174,eisa01
+47655078,Show HN: Mdarena – Benchmark your Claude.md against your own PRs,technology,16,hudsongr
+47651479,From birds to brains: My path to the fusiform face area (2024),technology,35,everbody
+47640728,Show HN: A game where you build a GPU,sports,909,Jaso1024
+47649701,Perfmon – Consolidate your favorite CLI monitoring tools into a single TUI,others,48,paperplaneflyr
+47636765,Endian wars and anti-portability: this again?,technology,44,awilfox
+47646472,Aegis – open-source FPGA silicon,others,130,rosscomputerguy
+47654317,My university uses prompt injection to catch cheaters,others,18,varun_ch
+47656146,"New Copilot for Windows 11 includes a full Microsoft Edge package, uses more RAM",others,26,aaronsung
+47656874,The Reason VO₂ Max Declines with Age,others,19,dtawfik1
+47644406,German implementation of eIDAS will require an Apple/Google account to function,others,548,DyslexicAtheist
+47656695,"Anthropic has a blacklist on the word ""OpenClaw""",others,14,benn67
+47655480,Make Humans Analog Again,technology,6,muunbo
+47646504,Show HN: OsintRadar – Curated directory for osint tools,others,70,lexalizer
+47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,others,504,naves
+47646843,Lisette a little language inspired by Rust that compiles to Go,others,258,jspdown
+47636228,Spath and Splan,others,8,jasonmoo
+47645025,Show HN: Contrapunk – Real-time counterpoint harmony from guitar input,others,112,waveywaves
+47648404,My Google Workspace account suspension,science,345,zenincognito
+47655155,'Cognitive Surrender' Is a New and Useful Term for How AI Melts Brains,technology,37,mikhael
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,others,159,laszlokorte
+47608040,Shared mutable state in Rust (2022),others,44,vinhnx
+47654753,NMS Ceefax: Remember teletext? This is the same,others,5,CharlesW
+47604887,Electrical transformer manufacturing is throttling the electrified future,others,114,toomuchtodo
+47654649,Introducing GEN-1 [video],others,51,dgellow
+47654842,Italian TV Copyright-Strikes Nvidia over Nvidia's Own DLSS 5 Footage,others,35,alecco
+47653975,Qwen-3.6-Plus is the first model to break 1T tokens processed in a day,others,53,Alifatisk
+47655932,Riddle solved: Why was Roman concrete so durable?,others,16,ilamont
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,others,1077,firloop
+47655335,Recall – local multimodal semantic search for your files,others,19,patel_aayushya
+47637757,Embarrassingly simple self-distillation improves code generation,others,642,Anon84
+47656461,More Americans Are Breaking into the Upper Middle Class,others,9,lxm
+47598835,Rubysyn: Clarifying Ruby's Syntax and Semantics,others,71,petalmind
+47617233,The Enigma of Gertrude Stein,others,23,samclemens
+47654219,TreeSheets: Free Form Data Organizer (Hierarchical Spreadsheet),others,9,n3t
+47653471,"Musician says AI company is cloning her music, filing claims against her",technology,111,lando2319
+47644864,"AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",others,392,crcastle
+47631118,Artemis II crew take “spectacular” image of Earth,others,1060,andsoitis
+47649811,"Japanese, French and Omani vessels cross Strait of Hormuz",technology,152,vrganj
+47649117,Someone at BrowserStack is leaking users' email addresses,technology,371,m_km
+47649148,Iguanaworks has closed and our products are no longer sold,others,95,ripe
+47648638,Docker Offload,others,22,redbell
+47645305,Demonstrating Real Time AV2 Decoding on Consumer Laptops,others,54,breve
+47645432,Introduction to Computer Music (2009) [pdf],others,224,luu
+47652726,Bacteria found in the human intestine capable of improving muscle strength,others,142,gnabgib
+47652290,Samsung Raises DRAM Prices Another ~30% for Q2 2026,technology,49,jeffufl
+47613118,Show HN: I built a small app for FSI German Course,others,50,syedmsawaid
+47651048,A Textual widget for beautiful diffs in the terminal,others,11,willm
+47653036,Satellite firm Planet Labs to indefinitely withold Iran war imagery,worldnews,38,anigbrowl
+47616361,Google releases Gemma 4 open models,others,1796,jeffmcjunkin
+47640875,"LLM Wiki – example of an ""idea file""",others,277,tamnd
+47651360,Stamp It! All Programs Must Report Their Version,others,23,secure
+47650172,Phone-free bars and restaurants on the rise across the U.S.,others,142,Brajeshwar
+47644566,"Advice to young people, the lies I tell myself (2024)",others,160,mooreds
+47650887,How to Get Better at Guitar,others,9,jwworth
+47642569,How many products does Microsoft have named 'Copilot'?,others,793,gpi
+47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,others,413,eichin
+47648438,Common drug tests lead to tens of thousands wrongful arrests a year,others,116,rawgabbit
+47645468,Writing Lisp is AI resistant and I'm sad,technology,92,djha-skin
+47629485,A case study in testing with 100+ Claude agents in parallel,others,63,thejash
+47655839,"We analyzed 5,480 hospital cost reports. Supply spending varies 3-7x",others,7,rexroad
+47641141,IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf],others,55,hggh
+47650962,The Melanesian: Dark-skinned people with blonde hair region of Oceania (2022),technology,44,thunderbong
+47650726,"Codex pricing to align with API token usage, instead of per-message",others,199,ccmcarey
+47616242,Decisions that eroded trust in Azure – by a former Azure Core engineer,others,1269,axelriet
+47636435,Emotion concepts and their function in a large language model,others,185,dnw
+47638810,Components of a Coding Agent,others,285,MindGods
+47654154,Linux 7.1 Expected to Begin Removing I486 CPU Support,others,18,rbanffy
+47628608,OpenClaw privilege escalation vulnerability,others,510,kykeonaut
+47646065,What if the browser built the UI for you?,others,43,jonnonz
+47637622,A brief history of instant coffee,others,57,admp
+47653990,Microsoft Publisher will no longer be supported after October 2026,others,13,dsego
+47639303,"Show HN: I made open source, zero power PCB hackathon badges",others,154,kaipereira
+47655983,Debian Is Figuring Out How Age Verification Laws Will Impact It,others,9,Bender
+47655938,Pokémon cards are igniting an international crime spree,others,8,Bender
+47625952,Show HN: I built a frontpage for personal blogs,others,769,ramkarthikk
+47639779,"Show HN: sllm – Split a GPU node with other developers, unlimited tokens",others,179,jrandolf
+47633086,Just 'English with Hanzi',others,84,scour
+47621792,Post Mortem: axios NPM supply chain compromise,technology,285,JeanMeche
+47637287,Some Unusual Trees,others,285,simplegeek
+47651626,Reaffirming our commitment to child safety in the face of EuropeanUnion inaction,others,66,upofadown
+47629433,iNaturalist,others,527,bookofjoe
+47644808,The machines are fine. I'm worried about us,others,38,Plasmoid
+47650383,Program analysis using random interpretation (2005) [pdf],others,5,azhenley
+47639291,The Indie Internet Index – submit your favorite sites,others,184,freshman_dev
+47655787,Anthropic blocks cli calls mentioning OpenClaw,others,5,nstj
+47646363,Modern Generic SVGA driver for Windows 3.1,others,70,userbinator
+47629903,Why are we still using Markdown?,others,223,veqq
+47639727,"When legal sports betting surges, so do Americans' financial problems",others,216,pseudolus
+47624645,Show HN: Apfel – The free AI already on your Mac,technology,729,franze
+47646566,"Unverified: What Practitioners Post About OCR, Agents, and Tables",others,27,chelm
+47603657,Artemis II Launch Day Updates,others,1095,apitman
+47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",sports,24,andsoitis
+47639524,"Author of ""Careless People"" banned from saying anything negative about Meta",others,845,macleginn
+47633157,Fake Fans,others,156,performative
+47646871,Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media,others,22,glovink
+47633116,The house is a work of art: Frank Lloyd Wright,others,113,midnightfish
+47648529,Right to repair: Why the US military can't fix much of its own equipment,technology,34,scythe
+47614532,Ruckus: Racket for iOS,others,155,nsm
+47654466,The Miserable Introvert,others,11,artagnon
+47624804,Category Theory Illustrated – Types,others,112,boris_m
+47649917,"SPF/PC v4 for MS-DOS, FreeDOS, x86",others,21,hggh
+47630893,Age verification on Systemd and Flatpak,others,144,londonanon
+47654359,I Built a Reproducible Mac Setup with Nix,others,12,akane8
+47641788,Iranian missile blitz takes down AWS data centers in Bahrain and Dubai,technology,184,lschueller
+47638075,"The CMS is dead, long live the CMS",others,153,taubek
+47654143,Code Freezes can have the opposite effect,others,14,JensRantil
+47611993,VR Realizes the Cyberspace Metaphor,science,17,dryadin
+47641255,Plague Ships (2020),others,50,bryanrasmussen
+47653061,Port of LA turns to electric terminal trucks to to slash dwell times,others,13,toomuchtodo
+47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,others,161,teamchong
+47650894,"Show HN: Gecit – DPI bypass using eBPF sock_ops, no proxy or VPN",others,7,boratanrikulu
+47655920,"AI agents promise to 'run the business,' but who is liable if things go wrong?",technology,6,Bender
+47618223,We replaced RAG with a virtual filesystem for our AI documentation assistant,technology,403,denssumesh
+47650606,Open source voice cloning TTS models worth trying,others,6,steveharing1
+47633131,"Run Linux containers on Android, no root required",technology,218,politelemon
+47651034,Why Over-Engineering Happens,others,35,zuhayeer
+47634690,Delve removed from Y Combinator,others,499,carabiner
+47645817,How Pope Leo is pushing back on divine justification of war,worldnews,73,1659447091
+47650234,Panorama – AI that finds your team's workflows and hidden structures,technology,6,bryantwolf
+47622616,The Technocracy Movement of the 1930s,technology,168,lazydogbrownfox
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,others,569,AbuAssar
+47601194,"The Cathedral, the Bazaar, and the Winchester Mystery House",others,184,dbreunig
+47618176,George Goble has died,others,174,finaard
+47609117,Ask HN: Is there any interest in a native Qt/C++ Discord client?,others,34,txtsd
+47641464,Scientists observe an immune signaling complex forming inside cells,others,113,ohjeez
+47597366,The most-disliked people in the publishing industry,others,96,Caiero
+47617376,OpenAI Acquires TBPN,technology,239,surprisetalk
+47650273,"Meta, Google under attack as court cases bypass 30-year-old legal shield",others,17,1vuio0pswjnm7
+47633947,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,others,545,detaro
+47615490,Artemis computer running two instances of MS outlook; they can't figure out why,others,492,mooreds
+47624736,NHS staff refusing to use FDP over Palantir ethical concerns,others,356,chrisjj
+47640775,Why the most valuable things you know are things you cannot say,others,160,nr378
+47641615,Sopwith – 1984 Game (2000),sports,97,elvis70
+47645235,Brain scans reveal how to enters a psychedelic-like trance without drugs,technology,76,ingenika
+47597159,Improving my focus by giving up my big monitor,others,184,Fudgel
+47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,others,151,jackson-mcd
+47633676,"Extra usage credit for Pro, Max, and Team plans",others,64,angst
+47629382,Getting Claude to QA its own work,others,20,suchintan
+47624731,April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini,others,319,greenstevester
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,589,pretext
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,others,781,hkmaxpro
+47618189,Tailscale's new macOS home,technology,562,tosh
+47627527,Build your own Dial-up ISP with a Raspberry Pi,others,203,arjunbajaj
+47611481,Bringing Clojure programming to Enterprise (2021),others,201,smartmic
+47606244,Training mRNA Language Models Across 25 Species for $165,technology,145,maziyar
+47614100,'Backrooms' and the Rise of the Institutional Gothic,others,221,anarbadalov
+47654330,US Site Blocking Legislation Could Be Attached to Omnibus Bill – TorrentFreak,others,10,ls612
+47628326,F-15E jet shot down over Iran,others,605,tjwds
+47626462,Big-Endian Testing with QEMU,others,114,jandeboevrie
+47629116,Go on Embedded Systems and WebAssembly,others,204,uticus
+47617415,Good ideas do not need lots of lies in order to gain public acceptance (2008),technology,364,sedev
+47618084,Cursor 3,others,540,adamfeldman
+47638147,"Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools",technology,19,bring-shrubbery
+47601992,The smallest ELF executable (2021),others,41,michelangelo
+47639976,German men 18-45 need military permit for extended stays abroad,others,396,L_226
+47610593,Elizabeth I's Manuscript of Pierre Boaistuau's Histoires Prodigieuses (1559),technology,5,benbreen
+47643656,The Oxygen Apocalpyse: how bacteria used a spin diode to wipe out ancient life,others,25,KR_compchem
+47637010,The Last Quiet Thing,others,20,coinfused
+47632503,"Iran strikes leave Amazon availability zones ""hard down"" in Bahrain and Dubai",technology,245,upofadown
+47633640,How to Write Unmaintainable Code (1999),technology,55,downbad_
+47645168,Isseven,others,106,philipreasa
+47624811,SSH certificates: the better SSH experience,others,259,jandeboevrie
+47621825,I Built an SMS Gateway with a $20 Android Phone – Jonno.nz,others,92,jonno-nz
+47648226,SpaceX and OpenAI: The Mega IPO Grift [video],technology,26,throw0101c
+47652924,"Salarymen, Specialists, and Small Businesses",others,7,mooreds
+47609356,Artemis II's toilet is a moon mission milestone,others,325,1659447091
+47619879,U.S. is burning through Tomahawk cruise missile stockpile,others,80,uticus
+47630592,Async Python Is Secretly Deterministic,others,76,KraftyOne
+47614956,Notes from from Butterick's Practical Typography,others,37,chilipepperhott
+47602832,EmDash – A spiritual successor to WordPress that solves plugin security,others,692,elithrar
+47653816,UK intelligence censored report on global warming and homeland security,worldnews,93,ewidar
+47651140,Ask HN: Where are all the disruptive software that AI promised?,technology,15,p-o
+47626598,Show HN: ctx – an Agentic Development Environment (ADE),others,52,luca-ctx
+47630576,"How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",others,137,uticus
+47652479,How a British father and son made a fortune in Dubai then became wanted men,technology,12,akbarnama
+47643637,Show HN: Dev Personality Test,others,13,4m1rk
+47613981,LinkedIn is searching your browser extensions,others,1883,digitalWestie
+47656678,"Musk asks SpaceX IPO banks to buy Grok AI subscriptions, NYT reports",technology,8,1vuio0pswjnm7
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",others,152,kasparnoor
+47644928,"Kimi's response to ""hello. what are you"" is ""I'm Claude """,others,10,alentodorov
+47627419,The Axios supply chain attack used individually targeted social engineering,technology,47,cmitsakis
+47604698,Functional programming accelerates agentic feature development,others,55,cyrusradfar
+47630109,Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M,others,193,MaximilianEmel
+47642275,"Netflix must refund customers for years of price hikes, Italian court rules",others,63,xbmcuser
+47611921,Significant raise of reports,technology,313,stratos123
+47642933,"Student disciplined for creating MSU class search tool, Spartan Scheduler",others,9,rmason
+47597908,Remembering Magnetic Memories and the Apollo AGC,others,22,2earth
+47640431,What life looks like on the most remote inhabited island,others,96,brightbeige
+47640770,Show HN: DocMason – Agent Knowledge Base for local complex office files,others,11,Jet_Xu
+47630136,Update on the eBay Scam,others,47,speckx
+47655654,AI Is a Threat to Everything the American People Hold Dear – Bernie Sanders OpEd,technology,14,lando2319
+47609882,Subscription bombing and how to mitigate it,others,306,homelessdino
+47621448,A Few Good Magazines From the 70s and 80s,others,77,OhMeadhbh
+47605425,Sequential Optimal Packing for PCB Placement,others,20,seveibar
+47651814,The CA Minimum Wage Increase: Summing Up,others,7,paulpauper
+47652943,Apple continues to roll out age verification around the world,others,7,walterbell
+47635033,Show HN: Travel Hacking Toolkit – Points search and trip planning with AI,technology,95,borski
+47652887,AI Cuts MRI Scan Time from 23 to 9 Minutes at Amsterdam Cancer Center,technology,9,karakoram
+47645256,Families Can Now Eat Some Fish from Hudson River for First Time in 50 Years,others,27,geox
+47604155,SpaceX files to go public,science,398,nutjob2
+47649406,Drivers May Soon Pay Taxes Based on How Much Their Car Weighs,others,11,zzzeek
+47625311,Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux,technology,45,tosh
+47611721,IBM Announces Strategic Collaboration with Arm,others,281,bonzini
+47620933,Memo: A language that remembers only the last 12 lines of code,others,57,notem
+47615449,Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps,others,373,speckx
+47651344,A Startup Is Supplying Drones to High Schools to Stop Mass Shootings,others,10,impish9208
+47625244,Critics say EU risks ceding control of its tech laws under U.S. pressure,technology,240,nickslaughter02
+47621438,Show HN: Made a little Artemis II tracker,others,153,codingmoh
+47638532,"Show HN: Ownscribe – local meeting transcription, summarization and search",others,15,paberr
+47641277,A new gene therapy is giving people born deaf the chance to hear,others,52,bilsbie
+47609694,Email obfuscation: What works in 2026?,technology,369,jaden
+47644934,"Delve claiming that whistleblower was part of a ""targeted cyberattack""",technology,6,rrvsh
+47615756,Renewables reached nearly 50% of global electricity capacity last year,others,296,Growtika
+47648764,Andrej Karpathy on X: LLM Knowledge Bases,others,10,bilsbie
+47598413,C89cc.sh – standalone C89/ELF64 compiler in pure portable shell,others,201,gaigalas
+47615434,Delve allegedly forked an open-source tool and sold it as its own,others,326,nickvec
+47601570,"Csp-toolkit – Python library to parse, analyze, and find bypasses in CSP headers",others,12,bitscraper
+47613078,Inside Nepal's Fake Rescue Racket,others,306,lode
+47646220,Code Reviews Need to Evolve,others,5,nutwani91
+47610777,Quad9 Enables DNS over HTTP/3 and DNS over QUIC,others,68,itchingsphynx
+47632692,Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion,others,23,slp3r
+47610590,The East India Company in Japan,others,14,Thevet
+47644395,Why your joints make noise,others,11,bookofjoe
+47631030,Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment,others,37,sagirodin
+47599510,"Random numbers, Persian code: A mysterious signal transfixes radio sleuths",others,128,thinkingemote
+47651600,"In 2026, We Are Friction-Maxxing",others,6,wjb3
+47612558,Enabling Codex to Analyze Two Decades of Hacker News Data,others,87,ronfriedhaber
+47609492,50 years measuring the cleanest air,technology,24,defrost
+47645037,Shooting down ideas is not a skill,others,153,zdw
+47648745,Large language models are not the problem,others,10,sega_sai
+47644667,Nvim-treesitter (13K+ Stars) is Archived,others,161,RohanAdwankar
+47618120,Hugo's New CSS Powers,others,54,speckx
+47597935,CERN levels up with new superconducting karts,others,394,fnands
+47612601,"Sweden goes back to basics, swapping screens for books in the classroom",others,900,novaRom
+47652946,Salt and Blood Pressure,others,8,thunderbong
+47608495,Quantum computing bombshells that are not April Fools,others,264,Strilanc
+47610245,Things I Think I Think... Preferring Local OSS LLMs,others,54,zdw
+47651019,PS3 emulator makes Cell CPU breakthrough that improves performance in all games,sports,8,gloxkiqcza
+47653630,Trump Slashed Science Funding. Now the U.S. Could Face a Costly Brain Drain,technology,21,JumpCrisscross
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,others,76,nemoniac
+47637580,Emotion Concepts and Their Function in a Large Language Model,others,16,Anon84
+47605494,Jax's true calling: Ray-Marching renderers on WebGL,others,91,BenoitP
+47597119,Claude wrote a full FreeBSD remote kernel RCE with root shell,others,270,ishqdehlvi
+47635929,Naming rights to street auctioned in San Francisco,others,21,18nleung
+47632312,The Hardest Document Extraction Problem in Insurance,others,36,sgondala_ycapp
+47606840,DRAM pricing is killing the hobbyist SBC market,others,629,ingve
+47648102,Every dependency you add is a supply chain attack waiting to happen,technology,8,birdculture
+47603737,AI for American-produced cement and concrete,technology,223,latchkey
+47648939,"Why the US Can't Have Nice Things, Part 2",others,16,barry-cotter
+47632504,"""Cognitive surrender"" leads AI users to abandon logical thinking, research finds",technology,98,Bender
+47635340,Let's be Honest about AI Coding,technology,24,lordofmoria
+47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,others,113,rdme
+47636600,"Apple at 50, blind people and our allies shaping Apple accessibility innovation",others,8,sholladay
+47601555,Apple removes iPhone vibe coding app from app store,others,68,randycupertino
+47624440,A CSS Engine in OCaml,others,26,p4bl0
+47615876,The case for zero-error horizons in trustworthy LLMs,others,79,daigoba66
+47645180,The secrets of black holes and the Higgs mass could be hidden in a 7D geometry,others,17,teleforce
+47601859,Ask HN: Who is hiring? (April 2026),others,276,whoishiring
+47599305,The Document Foundation ejects its core developers,others,123,hackernewsblues
+47640440,"""Privacy. That's iPhone."" – and Other Things That Need an Asterisk",others,16,upofadown
+47605374,Scientists crack a 20-year nuclear mystery behind the creation of gold,others,87,prabal97
+47647065,AGI won't automate most jobs–because they're not worth the trouble,others,10,Sandman
+47601858,Ask HN: Who wants to be hired? (April 2026),others,88,whoishiring
+47600382,Is BGP safe yet?,others,254,janandonly
+47608058,A new C++ back end for ocamlc,others,236,glittershark
+47640632,There Is a RAM Shortage,others,34,paulpauper
+47624317,New Rowhammer attacks give complete control of machines running Nvidia GPUs,others,132,01-_-
+47630795,"Hello, World",others,92,reconnecting
+47624691,HarfBuzz Slug Support with WebGL,others,28,mcraiha
+47635056,Gold overtakes U.S. Treasuries as the largest foreign reserve asset,others,263,lxm
+47620039,"Reporting potholes with an ESP32, LoRA, and AI",technology,33,flakespancakes
+47650424,The Disposable Tools Manifesto,others,5,vtemian
+47651502,The Therac-25 software radiation disaster,worldnews,7,bithavoc
+47615844,Show HN: A P2P messenger with dual network modes (Fast and Tor),others,39,Realman78
+47616704,Modern SQLite: Features You Didn't Know It Had,others,238,thunderbong
+47615003,The underrated benefits of always having oatmeal at lunch,others,36,surprisetalk
+47623101,A Rave Review of Superpowers (For Claude Code),others,47,emschwartz
+47643580,Show HN: Uncompressed – Self-hosted Netflix alternative at 60 Mbps instead of 15,others,7,lackoftactics
+47649314,Great Plains Shelterbelt,technology,6,xbryanx
+47650022,Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses,technology,35,ChrisArchitect
+47608604,Why LLM-Generated Passwords Are Dangerously Insecure,others,19,zdw
+47621518,Tor Alva: The Tallest 3D-Printed Building in the World,others,44,sohkamyung
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,technology,36,j0rg3
+47618581,Amazon is adding a fuel surcharge to fees it collects from third-party sellers,others,166,lehi
+47644774,Write Your Own Copy,others,28,operatingthetan
+47618100,Yggdrasil Network,others,122,Velocifyer
+47631648,Automatic Textbook Formalization,others,44,tzury
+47609090,The Weather Channel – RetroCast,others,317,typeofhuman
+47642552,Nandgame – Build a Computer from Scratch,sports,6,Vortigaunt
+47613447,CC leak: skills are better than I thought,others,47,KaseKun
+47620939,rpg: A modern psql-compatible Postgres terminal and TUI written in Rust,others,21,tanelpoder
+47616157,Software never had a soul,worldnews,20,firloop
+47611809,New laws to make it easier to cancel subscriptions and get refunds,others,158,chrisjj
+47647433,Goldman Sachs: biggest oil crisis in history is about to hit,others,14,doener
+47645926,The Spaceballs sequel will be released in April next year,science,8,WaitWaitWha
+47618221,The Australian government has announced gambling advertising reforms,others,133,gostsamo
+47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,40,ruevs
+47640722,12k AI-generated blog posts added in a single commit,technology,152,noslop
+47602598,An experimental guide to Answer Engine Optimization,others,9,rosslh
+47641164,Polymarket apologizes for allowing wagers on fate of U.S. pilots downed in Iran,others,31,ceejayoz
+47618247,Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays,others,21,symisc_devel
+47609241,Trinity Large Thinking,others,56,kristianp
+47638477,Ex-Microsoft engineer blames Azure problems on talent exodus,others,29,beardyw
+47649955,Roogle: a Rust API search engine,others,6,fanf2
+47631190,Chip-scale optical wireless system hits 362 Gbps at half the energy of Wi-Fi,others,10,prabal97
+47598511,I quit. The clankers won,others,422,domysee
+47626242,Second Revision of 6502 Laptop,others,11,uticus
+47654226,Trump proposes steep cut to NASA budget as astronauts head for the Moon,others,8,rbanffy
+47644701,Legibility Is Ruining You,others,20,birdculture
+47634095,Wikidata for Developers,others,8,matthberg
+47651401,"With one million displaced, Lebanon turns to digital wallets for aid",technology,41,joozio
+47639199,No One at Waffle House Remembers FEMA Official Who Says He Teleported In,others,55,planewave
+47650401,StackOverflow: Retiring the Beta Site,others,44,stefankuehnel
+47644529,Why samurai are cooler than klingons,technology,10,mooreds
+47637353,SQLite in Production: Lessons from Running a Store on a Single File,others,28,thunderbong
+47641057,Astronomers Find a Third Galaxy Missing Its Dark Matter,others,28,gostsamo
+47640984,"Iran's Network of Cameras Bolsters Air Defenses, Expert Says",technology,48,uxhacker
+47645240,SpaceX Pushes Back Crucial Starship Test Launch,science,14,bookmtn
+47597085,Claude Code Unpacked : A visual guide,others,1116,autocracy101
+47639207,Show HN: Tokencap – Token budget enforcement across your AI agents,technology,7,pykul
+47605677,Signing data structures the wrong way,others,121,malgorithms
+47603966,Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM,others,88,coolwulf
+47602519,Default GraphQL response is now HTTP 500,others,34,markl42
+47647556,"Microsoft QDK from .NET to Rust: 100x faster, 100x smaller",others,7,AbuAssar
+47655390,Aviation company employee attempted to take proprietary information to China,others,5,737min
+47629608,Tech Companies Are Trying to Neuter Colorado's Landmark Right-to-Repair Law,technology,52,liz_ifixit
+47623053,"Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",technology,25,arttaboi
+47645976,AI that copied musical artist files copyright claim against artist [updated],technology,64,josephcsible
+47650089,EPA official in charge of methane regulations was an oil and gas lobbyist,others,57,Jimmc414
+47610336,r/programming bans all discussion of LLM programming,others,198,cryptoz
+47624270,Q148637: Windows 95/98 Overwrites Boot-Sector Field on Floppy Disks (2001),others,10,TMWNN
+47627061,Solar and batteries can power the world,others,290,edent
+47646241,Applying machine learning to identify unrecognized Covid-19 deaths in the US,others,11,Pxtl
+47631011,PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free,technology,15,mettamage
+47645035,Microsoft Discontinuing Publisher. Alternatives?,others,12,supliminal
+47602879,StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles),others,174,skysniper
+47635075,What is this triangular symbol? (2007),others,5,DASD
+47625682,Idiomatic Lisp and the Nbody Benchmark,others,33,signa11
+47625629,Squarified Treemap Algorithm,others,13,downboots
+47610534,"Vitalik Buterin – ""My self-sovereign / local / private / secure LLM setup""",others,34,derrida
+47624990,Adobe wrote to my hosts file. I've never had an app do this before,others,94,speckx
+47642602,Congress Became the Weakest Branch,others,20,marojejian
+47645095,Evacuation of U.S. troops from Mideast base sends community groups scrambling,others,45,ceejayoz
+47634328,Show HN: DotReader – connects ideas across your books automatically,others,5,efecerre
+47645925,Don't Buy the DGX Spark: NVFP4 Still Missing After 6 Months,others,9,kristianp
+47646928,H.264 licenses: Prices increase up to 45 times,others,5,doener
+47607468,Tracing goroutines in realtime with eBPF,others,23,sazak
+47633715,Kids groups say they didn't know OpenAI was behind their child safety coalition,technology,35,heavyset_go
+47633734,ENiGMA½ BBS Software,worldnews,10,NuSkooler
+47619990,The machines are fine. I'm worried about us,others,18,hmpc
+47630582,Three main saturated fats raise your cholesterol,technology,49,brandonb
+47633514,"Writing an LLM from scratch, part 32h – Interventions: full fat float32",others,7,gpjt
+47634240,OpenAI Cap Table leak reveals Microsoft's 18x return,technology,30,diehunde
+47635522,"Japan to require language proficiency proof for engineer, specialist visa",others,32,totetsu
+47622110,NanoClaw's architecture is a masterclass in doing less,others,12,jonnonz
+47646553,The SimCity Planning Commission Handbook (2024),others,6,Tomte
+47607923,"IPv6 address, as a sentence you can remember",others,78,LorenDB
+47632901,Sandbox Strategy Game for AI,technology,6,Stefan_Golas
+47647247,Show HN: ImPlot v1.0 – 6 years of Immediate-mode plotting for Dear ImGui,others,5,brenocq
+47636820,Show HN: Web Push Notifications for Hacker News,others,5,kinlan
+47632763,I Gave an Claude Its Own Radio Station – It Won't Stop Broadcasting (It's Fine),others,13,eltokh7
+47600233,The Finest Swiss Quality Quaternions,others,39,hpb42
+47647886,Porting Go's strings package to C,others,5,valyala
+47621048,Why Doesn't Anybody Realize We're Going Back to the Moon?,others,88,paulpauper
+47603131,Google Cloud: Investing in the Future of PostgreSQL,others,33,kevincox
+47629505,Solana Drift Protocol drained of $285M via fake token and governance hijack,technology,78,anonhaven
+47596457,Analyzing Geekbench 6 under Intel's BOT,others,41,hajile
+47604245,Ukrainian drone holds position for 6 weeks,technology,171,AftHurrahWinch
+47604897,Apple at 50,others,125,janandonly
+47645010,Dr. Dobb's Developer Library DVD 6,others,5,kristianp
+47622670,EmDash Feedback,others,40,batuhanicoz
+47642541,Ask HN: How Do You Relax?,others,17,azeirah
+47629163,Why stdout is faster than stderr? (2024),others,5,zdw
+47612627,Zstandard Across the Stack,others,17,oddurmagnusson
+47640537,The White House App Is Riddled with Cybersecurity Vulnerabilities,others,14,OrangePilled
+47647283,"LinkedIn scans for 6k Chrome extensions, collects data",others,5,anonhaven
+47609294,The Claude Code Leak,others,199,mergesort
+47602986,Show HN: Real-time dashboard for Claude Code agent teams,others,76,simple10
+47645717,Explore union types in C# 15,others,14,0x00C0FFEE
+47645696,Towards end-to-end automation of AI research,technology,6,hardmaru
+47647038,An AI bot invited me to its party in Manchester. It was a pretty good night,technology,8,mellosouls
+47607067,Swappa.com for GrapheneOS compatible devices – Stay Away,others,114,OsrsNeedsf2P
+47604218,The AI Marketing BS Index,technology,108,speckx
+47620381,AWS has officially removed all EC2 instances in Bahrain from their docs,technology,57,mirzap
+47616050,March heat in American west has left snowpack at record-low levels,others,114,ijidak
+47639077,Caveman Mode Save Token?,others,16,brightball
+47643347,OpenRouter Raises $120M at a $1.3B Valuation,technology,10,ryanatallah
+47617852,Show HN: Adentris (YC P25) – Find mistakes in your medical records,others,15,digitaltzar
+47633698,Flattening the Duck Curve: batteries reach 44% of evening demand in California,others,24,bronson
+47636660,Systemd-free Modern Linux: artixlinux and dinit and labwc and noctalia shell,others,14,grigio
+47645100,Mission to Recover Downed F-15E Aircrew,technology,8,everybodyknows
+47600434,New patches allow building Linux IPv6-only,others,121,Bender
+47633568,Anthropic to limit Using third-party harnesses with Claude subscriptions,others,18,guiyuwei
+47611455,What Exoskeleton Technology Learned from One User,technology,13,rbanffy
+47637083,Ask HN: Learning resources for building AI agents?,technology,10,7e10
+47632479,Gentoo has GNU Hurd images now,others,25,kogasa240p
+47639224,Intelligence Cannot Be Trained?,technology,7,hyperzzw
+47620698,New IRIX Emulator (I am not the author),others,5,ThatGuyRaion
+47648452,Ubuntu now requires more RAM than Windows 11,others,138,jnord
+47638246,"Jack Dorsey says Block employees now bring prototypes, not slides, to meetings",others,74,taubek
+47632016,The danger of military AI isn't killer robots; it's worse human judgement,technology,23,speckx
+47631444,Show HN: Run Claude Code autonomously inside your Docker Compose stack (OSS),others,8,sayil
+47609253,Solar Balconies Take Europe by Storm,others,90,lxm
+47648801,The Hormuz Hypothesis – What If the U.S. Navy Isn't in a Hurry to Reopen Hormuz?,others,15,jgalt212
+47598354,Replace axios with a simple custom fetch wrapper,others,17,mariuz
+47599956,Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity,technology,95,lukechu10
+47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",worldnews,86,vrganj
+47634544,"The story that rocked the world: Ten years of the Panama Papers, part 1 – ICIJ",others,16,abdelhousni
+47616665,Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI,technology,53,SilverElfin
+47629385,Artemis II Looking Back at Earth,others,24,DarmokJalad1701
+47620155,Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are,technology,38,bigbobbeeper
+47619111,The MVC Mistake,others,8,ibobev
+47604768,Comparing C/C++ unity build with regular build on a large codebase (2024),others,12,PaulHoule
+47637472,European Commission cloud breach: a supply-chain compromise,technology,16,Sandman
+47629013,Mercurial Dyson – a plan for the disassembly of planet Mercury,others,57,indy
+47636233,"Uber engineer alleges hostile 'boys club' culture, firing after cancer leave",others,21,nickvec
+47618123,Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer,technology,6,dxs
+47637343,Iran Threatens to Bomb 1GW Stargate AI Datacenter in Abu Dhabi,technology,13,ZunarJ5
+47636203,"Scientists are working on ""everything vaccines""",others,49,andsoitis
+47613156,ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026,others,70,jeditobe
+47608155,"ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",technology,76,bananaboy
+47624879,Switzerland hosts 'CERN of semiconductor research',others,34,teleforce
+47602277,Samsung's Blood Pressure Monitoring Feature Now Available,technology,11,brandonb
+47595865,We intercepted the White House app's network traffic,others,234,donutpepperoni
