@@ -33,6 +33,10 @@ print("Missing values removed")
 
 # 3. Convert score and num_comments to integer
 df["score"] = df["score"].astype(int)
+if "descendants" in df.columns:
+    df["num_comments"] = df["descendants"]
+else:
+    df["num_comments"] = 0
 
 # Some rows may have missing comments, so fill with 0
 if "num_comments" in df.columns : 
@@ -79,3 +83,4 @@ category_count = df["category"].value_counts()
 
 print(category_count)
 
+ 
